@@ -6,6 +6,9 @@
 # macOS folder attributes
 __MACOSX/
 
+*.png
+*.npy
+
 # Python
 *.pyc
 *.pyo
